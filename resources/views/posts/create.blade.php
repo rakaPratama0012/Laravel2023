@@ -7,7 +7,7 @@
     <title>Tambah Data Planning</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
-<body style="background: lightgray">
+<body style="background: rgb(92, 89, 89)">
     <h3 class="text-center my-4">PENAMBAHAN DATA PENJADWALAN CONTENT ARUI MANAGEMENT</h3>
     <div class="container mt-5 mb-5">
         <div class="row">

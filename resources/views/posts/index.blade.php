@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 </head>
-<body style="background: rgb(190, 218, 231)">
+<body style="background: rgba(161, 132, 132, 0.76)">
 
     <div class="container mt-5">
         <div class="row">

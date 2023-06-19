@@ -16,7 +16,7 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="http://127.0.0.1:8000/posts"><b>Home To Index Klik Here &#8592;</b></a>
+                <a class="nav-link active" aria-current="page" href="http://127.0.0.1:8000/posts"><b>Index Klik Here &#8592;</b></a>
               </li>
             </ul>
             <form action="{{ route('logout') }}" method="POST" class="d-flex" role="search">
@@ -36,7 +36,7 @@
 </br>
    <center> <p>kalian sekarang berada di website di home kami silakan klik link di atas untuk melanjutkan ke halaman berikutnya...</br>
       <b><br>Salam Hangat Sang Pembuat Web 3 Hari 3 Malam</br></p></b>
-      <p><b> kalau ada yang ditanyakan silakan Chat Di Wa ini</b> <a href="https://wa.me/085790773760">silakan klik disini</a>
+      <p><b> kalau ada yang ditanyakan silakan Chat Di Wa ini</b> <a href="https://wa.me/085790773760""<a class="btn btn-sm btn-primary">silakan klik disini</a>
         <p><marquee behavior='alternate' direction='right' bgcolor='blue' style='color:rgb(124, 235, 235);font-weight:bold;'> see You Semoga Bermanfaat</p>
 </body>
 </html>
